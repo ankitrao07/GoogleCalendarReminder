@@ -16,7 +16,7 @@ namespace Google_Calender_Reminder.Models
             };
 
         }
-        public string Title { get; set; }
+        public string Summary { get; set; }
         public string Description { get; set; }
         public EventDateTime Start { get; set; }
         public EventDateTime End { get; set; }
