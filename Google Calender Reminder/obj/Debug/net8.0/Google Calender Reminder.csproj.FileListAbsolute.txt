@@ -1,0 +1,43 @@
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\appsettings.json
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Google Calender Reminder.staticwebassets.runtime.json
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Google Calender Reminder.exe
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Google Calender Reminder.deps.json
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Google Calender Reminder.runtimeconfig.json
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Google Calender Reminder.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Google Calender Reminder.pdb
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.AssemblyInfo.cs
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.RazorAssemblyInfo.cache
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.RazorAssemblyInfo.cs
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\staticwebassets\msbuild.Google Calender Reminder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\staticwebassets\msbuild.build.Google Calender Reminder.props
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Google Calender Reminder.props
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Google Calender Reminder.props
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\scopedcss\bundle\Google Calender Reminder.styles.css
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\scopedcss\projectbundle\Google Calender Reminder.bundle.scp.css
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\refint\Google Calender Reminder.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.pdb
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.genruntimeconfig.cache
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\ref\Google Calender Reminder.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.csproj.AssemblyReference.cache
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Files\credentials.json
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Files\tokens.json
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\RestSharp.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\obj\Debug\net8.0\Google Calender Reminder.csproj.CopyComplete
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Google.Apis.Calendar.v3.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\System.Management.dll
+C:\Users\ankit\source\repos\Google Calender Reminder\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll

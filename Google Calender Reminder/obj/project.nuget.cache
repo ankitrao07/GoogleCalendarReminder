@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFnfs8BckxGbemlEEK5DIz37adoLF1khFWcULLjgC/RVCYTEdGax/+AnPfjOCsubnimn+sc1fUyCCflqaAdFXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankit\\source\\repos\\Google Calender Reminder\\Google Calender Reminder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ankit\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\bootstrap.less\\3.4.1\\bootstrap.less.3.4.1.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\bootstrap.v3.datetimepicker\\4.17.49\\bootstrap.v3.datetimepicker.4.17.49.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\google.apis\\1.68.0\\google.apis.1.68.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\google.apis.auth\\1.68.0\\google.apis.auth.1.68.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\google.apis.calendar.v3\\1.68.0.3473\\google.apis.calendar.v3.1.68.0.3473.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\google.apis.core\\1.68.0\\google.apis.core.1.68.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\jquery\\1.9.1\\jquery.1.9.1.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\moment.js\\2.9.0\\moment.js.2.9.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\restsharp\\111.4.0\\restsharp.111.4.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\ankit\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

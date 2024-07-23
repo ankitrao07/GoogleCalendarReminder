@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Calender Reminder</h1>
+    <button class="btn btn-primary" style="margin-top:20px;" onclick="location.href='@Url.Action("OauthRedirect","Home")'">Reminder</button>
+    
+    <div style="margin-top:50px;">
+        <form method="post" action="Home/AddEvent">
+            <div class="form-group row col-md-8" style="margin:10px;">
+                <label for="Summary" class="col-md-3 col-form-label">Summary:</label>
+                <div class="col-md-5">
+                <input type="text" class="form-control" name="Summary" autocomplete="off" />
+                </div>
+            </div>
+            <div class="form-group row col-md-8" style="margin:10px;">
+                    <label for="Description" class="col-md-3 col-form-label">Description:</label>
+                
+                <div class="col-md-5">
+                    <input type="text" class="form-control" name="Description" autocomplete="off" />
+                </div>
+                
+            </div>
+            <div class="form-group row col-md-8" style="margin:10px;">
+                
+                    <label for="Start.DateTime" class="col-md-3 col-form-label">Start Date Time:</label>
+               
+                <div class="col-md-5 input-group date" id="datetimepicker">
+                    <input type="text" class="form-control" name="Start.DateTime" autocomplete="off" />
+                    <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+
+                </div>
+                
+            </div>
+            <div class=" form-group row col-md-8" style="margin:10px;">
+                <label for="End.DateTime" class="col-md-3 col-form-label">End Date Time:</label>
+                <div class="col-md-5 input-group date">
+                    <input type="text" class="form-control" name="End.DateTime" autocomplete="off" />
+                    <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+                </div>
+                
+            </div>
+            <div class="form-group row col-md-2" style="margin-top:10px; align-content:center;">
+                <button type="submit" col-md-2 class="btn btn-primary">Add Event</button>
+            </div>
+        </form>
+    </div>
+
+</div>
