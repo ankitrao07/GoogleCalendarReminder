@@ -25,8 +25,9 @@ namespace Google_Calender_Reminder.Controllers
         }
         public ActionResult OauthRedirect()
         {
-            var client_id = "814666712708-2rvi3f0e7t4dohvrkgbqjg2pjcog0dfh.apps.googleusercontent.com";
-            var screte = "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";
+           // client id and secret values are masked for as of now and need to replace with actual values 
+            var client_id = "client_id";
+            var screte = "secret";
             var redirectUrl = "https://accounts.google.com/o/oauth2/v2/auth?" +
                               "scope=https://www.googleapis.com/auth/calendar+https://www.googleapis.com/auth/calendar.events&" +
                               "access_type=online&" +
