@@ -19,8 +19,8 @@ namespace Google_Calender_Reminder.Controllers
             var tokenFile = "C:\\Users\\ankit\\source\\repos\\Google Calender Reminder\\Files\\tokens.json";
             var credentialsFile = "C:\\Users\\ankit\\source\\repos\\Google Calender Reminder\\Files\\credentials.json";
             JObject? credentials  = JObject.Parse(System.IO.File.ReadAllText(credentialsFile));
-            string client_id = "814666712708-2rvi3f0e7t4dohvrkgbqjg2pjcog0dfh.apps.googleusercontent.com";
-            string client_secret = "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";
+            string client_id = "client_id";
+            string client_secret = "secret";
             RestClient restClient = new RestClient("https://oauth2.googleapis.com/token");
             RestRequest request = new RestRequest();
             request.AddQueryParameter("client_id",client_id)
